@@ -1,0 +1,402 @@
+[
+    {
+        "Model Name": "RUNWAY_TRACK3",
+        "Model Id": "327_03_1"
+    },
+    {
+        "Model Name": "RUNWAY_TRACK1",
+        "Model Id": "327_01_1"
+    },
+    {
+        "Model Name": "RUNWAY_TRACK2",
+        "Model Id": "327_02_1"
+    },
+    {
+        "Model Name": "TREE_SMALL",
+        "Model Id": "905_01_1"
+    },
+    {
+        "Model Name": "WALL_FENCES",
+        "Model Id": "341_02_1"
+    },
+    {
+        "Model Name": "CHAIN_FENCE",
+        "Model Id": "303_01_1"
+    },
+    {
+        "Model Name": "WALL_FENCES",
+        "Model Id": "341_03_1"
+    },
+    {
+        "Model Name": "FENCES",
+        "Model Id": "303_02_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_03_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_02_1"
+    },
+    {
+        "Model Name": "WALL_FENCES",
+        "Model Id": "341_01_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_01_1"
+    },
+    {
+        "Model Name": "BOARD",
+        "Model Id": "218_01_1"
+    },
+    {
+        "Model Name": "SMALLWALL",
+        "Model Id": "311_03_1"
+    },
+    {
+        "Model Name": "LARGE_WALLS3",
+        "Model Id": "311_02_1"
+    },
+    {
+        "Model Name": "SWITCH_KEY",
+        "Model Id": "213_01_1"
+    },
+    {
+        "Model Name": "METAL_DOOR",
+        "Model Id": "424_03_1"
+    },
+    {
+        "Model Name": "POLE",
+        "Model Id": "355_01_1"
+    },
+    {
+        "Model Name": "PLANE_SU27",
+        "Model Id": "703_01_1"
+    },
+    {
+        "Model Name": "ELEVATOR_DOOR",
+        "Model Id": "505_01_1"
+    },
+    {
+        "Model Name": "SIGN_GUNMAN",
+        "Model Id": "349_01_1"
+    },
+    {
+        "Model Name": "FLOODLIGHT",
+        "Model Id": "303_04_1"
+    },
+    {
+        "Model Name": "IRON_POLE",
+        "Model Id": "308_01_1"
+    },
+    {
+        "Model Name": "OILSKIN_CRATE",
+        "Model Id": "342_01_1"
+    },
+    {
+        "Model Name": "WOODEN_CRATE",
+        "Model Id": "301_01_1"
+    },
+    {
+        "Model Name": "AITYPE_PATROL_AK",
+        "Model Id": "003_01_1"
+    },
+    {
+        "Model Name": "AITYPE_SECURITY_PATROL_SPAS",
+        "Model Id": "019_01_1"
+    },
+    {
+        "Model Name": "AITYPE_SOLDIER_AK",
+        "Model Id": "008_01_1"
+    },
+    {
+        "Model Name": "OFFICEBUILDING",
+        "Model Id": "409_01_1"
+    },
+    {
+        "Model Name": "TABLE_PACKAGE",
+        "Model Id": "237_01_1"
+    },
+    {
+        "Model Name": "DESK",
+        "Model Id": "205_01_1"
+    },
+    {
+        "Model Name": "CHAIR",
+        "Model Id": "215_01_1"
+    },
+    {
+        "Model Name": "LAMP",
+        "Model Id": "216_01_1"
+    },
+    {
+        "Model Name": "PHONE",
+        "Model Id": "217_01_1"
+    },
+    {
+        "Model Name": "SOFA",
+        "Model Id": "238_01_1"
+    },
+    {
+        "Model Name": "TABLE",
+        "Model Id": "224_01_1"
+    },
+    {
+        "Model Name": "CHAIR",
+        "Model Id": "225_01_1"
+    },
+    {
+        "Model Name": "ANTENA",
+        "Model Id": "490_02_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "503_01_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "500_01_1"
+    },
+    {
+        "Model Name": "COMPUTER",
+        "Model Id": "203_01_1"
+    },
+    {
+        "Model Name": "COMPUTER_DESTROYED",
+        "Model Id": "203_02_1"
+    },
+    {
+        "Model Name": "CAMERA",
+        "Model Id": "313_01_1"
+    },
+    {
+        "Model Name": "CAMERA",
+        "Model Id": "313_02_1"
+    },
+    {
+        "Model Name": "CAMERAS_DESTROYED",
+        "Model Id": "313_03_1"
+    },
+    {
+        "Model Name": "FENCE_GATES",
+        "Model Id": "304_01_1"
+    },
+    {
+        "Model Name": "AIRCONTROL_TOWER",
+        "Model Id": "415_01_1"
+    },
+    {
+        "Model Name": "COMPUTER_MONITOR",
+        "Model Id": "252_01_1"
+    },
+    {
+        "Model Name": "ELEVATOR",
+        "Model Id": "200_01_1"
+    },
+    {
+        "Model Name": "SWITCH",
+        "Model Id": "202_01_1"
+    },
+    {
+        "Model Name": "ELEVATOR_DOOR",
+        "Model Id": "505_02_1"
+    },
+    {
+        "Model Name": "CHECKPOINT",
+        "Model Id": "425_01_1"
+    },
+    {
+        "Model Name": "COMM_TOWER",
+        "Model Id": "455_01_1"
+    },
+    {
+        "Model Name": "SMALLBARRACKS",
+        "Model Id": "418_01_1"
+    },
+    {
+        "Model Name": "BED",
+        "Model Id": "227_01_1"
+    },
+    {
+        "Model Name": "AITYPE_SNIPER",
+        "Model Id": "001_01_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "504_01_1"
+    },
+    {
+        "Model Name": "BRICKHUT",
+        "Model Id": "427_01_1"
+    },
+    {
+        "Model Name": "SHELTER",
+        "Model Id": "461_01_1"
+    },
+    {
+        "Model Name": "CONTAINER_GREEN",
+        "Model Id": "319_05_1"
+    },
+    {
+        "Model Name": "CONTAINER_GREEN",
+        "Model Id": "319_04_1"
+    },
+    {
+        "Model Name": "FORKLIFTER",
+        "Model Id": "611_01_1"
+    },
+    {
+        "Model Name": "SMALLWAREHOUSE",
+        "Model Id": "412_01_1"
+    },
+    {
+        "Model Name": "AMMOCRATE",
+        "Model Id": "306_01_1"
+    },
+    {
+        "Model Name": "WHEELS",
+        "Model Id": "600_02_1"
+    },
+    {
+        "Model Name": "BOX",
+        "Model Id": "219_01_1"
+    },
+    {
+        "Model Name": "AMMO_BUILDING",
+        "Model Id": "424_01_1"
+    },
+    {
+        "Model Name": "METAL_DOOR_SLIDE_RIGHT",
+        "Model Id": "501_01_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_01_1"
+    },
+    {
+        "Model Name": "TRUCK",
+        "Model Id": "600_01_1"
+    },
+    {
+        "Model Name": "GUARD_HQ",
+        "Model Id": "403_01_1"
+    },
+    {
+        "Model Name": "FILINGCABINET",
+        "Model Id": "206_01_1"
+    },
+    {
+        "Model Name": "LAMP_CIELING",
+        "Model Id": "226_01_1"
+    },
+    {
+        "Model Name": "BUNKER_EXTERIOR",
+        "Model Id": "447_03_1"
+    },
+    {
+        "Model Name": "WATERTOWER",
+        "Model Id": "435_01_1"
+    },
+    {
+        "Model Name": "POWER_BUILDING",
+        "Model Id": "401_01_1"
+    },
+    {
+        "Model Name": "GENERATOR_BIG",
+        "Model Id": "201_01_1"
+    },
+    {
+        "Model Name": "RADAR_TOWER",
+        "Model Id": "436_01_1"
+    },
+    {
+        "Model Name": "GARAGE",
+        "Model Id": "410_01_1"
+    },
+    {
+        "Model Name": "SECURITYBUILDING_UNDERGROUND",
+        "Model Id": "490_01_1"
+    },
+    {
+        "Model Name": "PRISON_BED",
+        "Model Id": "231_01_1"
+    },
+    {
+        "Model Name": "MEDICAL_SIGNBOARD",
+        "Model Id": "348_01_1"
+    },
+    {
+        "Model Name": "LIGHTS_ROUND",
+        "Model Id": "236_01_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "507_01_1"
+    },
+    {
+        "Model Name": "ALARM_SWITCH",
+        "Model Id": "234_01_1"
+    },
+    {
+        "Model Name": "RADARDOME_EXTERIOR",
+        "Model Id": "446_03_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_03_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_04_1"
+    },
+    {
+        "Model Name": "COMPUTER_MAINFRAME",
+        "Model Id": "212_01_1"
+    },
+    {
+        "Model Name": "RADAR_ROTOR",
+        "Model Id": "436_02_1"
+    },
+    {
+        "Model Name": "JONES",
+        "Model Id": "000_01_1"
+    },
+    {
+        "Model Name": "HELICOPTER",
+        "Model Id": "709_01_1"
+    },
+    {
+        "Model Name": "ANYA_HQ",
+        "Model Id": "472_01_1"
+    },
+    {
+        "Model Name": "AITYPE_ANYA",
+        "Model Id": "015_01_1"
+    },
+    {
+        "Model Name": "PILOT_AI",
+        "Model Id": "715_01_1"
+    },
+    {
+        "Model Name": "PLANE_JSF",
+        "Model Id": "702_02_1"
+    },
+    {
+        "Model Name": "TRUCK",
+        "Model Id": "610_01_1"
+    },
+    {
+        "Model Name": "AEROPLANE_HANGER",
+        "Model Id": "437_01_1"
+    },
+    {
+        "Model Name": "PLANE_JSF",
+        "Model Id": "702_01_1"
+    },
+    {
+        "Model Name": "VEHICLE_T8W",
+        "Model Id": "618_01_1"
+    }
+]

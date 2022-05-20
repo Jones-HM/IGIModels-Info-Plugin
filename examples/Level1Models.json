@@ -1,0 +1,338 @@
+[
+    {
+        "Model Name": "FLOODLIGHT",
+        "Model Id": "335_01_1"
+    },
+    {
+        "Model Name": "CONTAINER_RED",
+        "Model Id": "319_02_1"
+    },
+    {
+        "Model Name": "CONTAINER_BLUE",
+        "Model Id": "319_01_1"
+    },
+    {
+        "Model Name": "CONTAINER_YELLOW",
+        "Model Id": "319_03_1"
+    },
+    {
+        "Model Name": "CONTAINER_GREEN",
+        "Model Id": "319_04_1"
+    },
+    {
+        "Model Name": "CONTAINER_GREEN",
+        "Model Id": "319_05_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_02_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_01_1"
+    },
+    {
+        "Model Name": "WALLS",
+        "Model Id": "312_03_1"
+    },
+    {
+        "Model Name": "POLE_WIRED",
+        "Model Id": "338_01_1"
+    },
+    {
+        "Model Name": "FENCES",
+        "Model Id": "303_02_1"
+    },
+    {
+        "Model Name": "CHAIN_FENCE",
+        "Model Id": "303_01_1"
+    },
+    {
+        "Model Name": "OILSKIN_CRATE",
+        "Model Id": "342_01_1"
+    },
+    {
+        "Model Name": "WOODEN_CRATE",
+        "Model Id": "301_01_1"
+    },
+    {
+        "Model Name": "FLOODLIGHT",
+        "Model Id": "303_04_1"
+    },
+    {
+        "Model Name": "IRON_POLE",
+        "Model Id": "308_01_1"
+    },
+    {
+        "Model Name": "ROAD_TRACK",
+        "Model Id": "368_01_1"
+    },
+    {
+        "Model Name": "ROAD_TRACK",
+        "Model Id": "322_01_1"
+    },
+    {
+        "Model Name": "TRAIN_TRACK",
+        "Model Id": "323_01_1"
+    },
+    {
+        "Model Name": "TUNNEL",
+        "Model Id": "471_01_1"
+    },
+    {
+        "Model Name": "TUNNEL_BASE",
+        "Model Id": "485_01_1"
+    },
+    {
+        "Model Name": "TREE_SMALL",
+        "Model Id": "905_01_1"
+    },
+    {
+        "Model Name": "POLE_WIRE",
+        "Model Id": "320_02_1"
+    },
+    {
+        "Model Name": "CAMERA",
+        "Model Id": "313_01_1"
+    },
+    {
+        "Model Name": "CAMERA",
+        "Model Id": "313_02_1"
+    },
+    {
+        "Model Name": "CAMERAS_DESTROYED",
+        "Model Id": "313_03_1"
+    },
+    {
+        "Model Name": "ALARM_SWITCH",
+        "Model Id": "234_01_1"
+    },
+    {
+        "Model Name": "LARGEFUELCONTAINER",
+        "Model Id": "438_01_1"
+    },
+    {
+        "Model Name": "SECURITYBUILDING",
+        "Model Id": "400_20_1"
+    },
+    {
+        "Model Name": "DESK",
+        "Model Id": "205_01_1"
+    },
+    {
+        "Model Name": "PHONE",
+        "Model Id": "217_01_1"
+    },
+    {
+        "Model Name": "LAMP",
+        "Model Id": "216_01_1"
+    },
+    {
+        "Model Name": "CHAIR",
+        "Model Id": "215_01_1"
+    },
+    {
+        "Model Name": "FILINGCABINET",
+        "Model Id": "206_01_1"
+    },
+    {
+        "Model Name": "BOX",
+        "Model Id": "219_01_1"
+    },
+    {
+        "Model Name": "SODA_MACHINE",
+        "Model Id": "214_01_1"
+    },
+    {
+        "Model Name": "LINGCABINET",
+        "Model Id": "351_01_1"
+    },
+    {
+        "Model Name": "HOLDER",
+        "Model Id": "373_01_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "500_01_1"
+    },
+    {
+        "Model Name": "COMPUTER",
+        "Model Id": "203_01_1"
+    },
+    {
+        "Model Name": "COMPUTER_DESTROYED",
+        "Model Id": "203_02_1"
+    },
+    {
+        "Model Name": "COMPUTER_MONITOR",
+        "Model Id": "252_01_1"
+    },
+    {
+        "Model Name": "WATERTOWER",
+        "Model Id": "435_01_1"
+    },
+    {
+        "Model Name": "ANTENA",
+        "Model Id": "490_02_1"
+    },
+    {
+        "Model Name": "WATCHTOWER",
+        "Model Id": "405_01_1"
+    },
+    {
+        "Model Name": "RADIO",
+        "Model Id": "204_01_1"
+    },
+    {
+        "Model Name": "GARAGE",
+        "Model Id": "410_01_1"
+    },
+    {
+        "Model Name": "SMALLFUELCONTAINER",
+        "Model Id": "439_01_1"
+    },
+    {
+        "Model Name": "CHECKPOINT",
+        "Model Id": "425_01_1"
+    },
+    {
+        "Model Name": "POLE",
+        "Model Id": "355_01_1"
+    },
+    {
+        "Model Name": "SMALLBARRACKS",
+        "Model Id": "418_01_1"
+    },
+    {
+        "Model Name": "BED",
+        "Model Id": "227_01_1"
+    },
+    {
+        "Model Name": "DOOR",
+        "Model Id": "503_01_1"
+    },
+    {
+        "Model Name": "SMALLWAREHOUSE",
+        "Model Id": "412_01_1"
+    },
+    {
+        "Model Name": "AMMOCRATE",
+        "Model Id": "306_01_1"
+    },
+    {
+        "Model Name": "WHEELS",
+        "Model Id": "600_02_1"
+    },
+    {
+        "Model Name": "TRASHCAN",
+        "Model Id": "315_01_1"
+    },
+    {
+        "Model Name": "OFFICEBUILDING",
+        "Model Id": "409_01_1"
+    },
+    {
+        "Model Name": "SOFA",
+        "Model Id": "238_01_1"
+    },
+    {
+        "Model Name": "TABLE",
+        "Model Id": "224_01_1"
+    },
+    {
+        "Model Name": "FUSEBOX",
+        "Model Id": "223_01_1"
+    },
+    {
+        "Model Name": "OVERPASS",
+        "Model Id": "417_01_1"
+    },
+    {
+        "Model Name": "LOADINGBAY",
+        "Model Id": "419_01_1"
+    },
+    {
+        "Model Name": "WAREHOUSE",
+        "Model Id": "404_01_1"
+    },
+    {
+        "Model Name": "FENCE_WOODEN",
+        "Model Id": "302_01_1"
+    },
+    {
+        "Model Name": "FENCE_GATES",
+        "Model Id": "304_01_1"
+    },
+    {
+        "Model Name": "POLE_TELEGRAPH",
+        "Model Id": "307_01_1"
+    },
+    {
+        "Model Name": "SWITCH",
+        "Model Id": "202_01_1"
+    },
+    {
+        "Model Name": "WIRE",
+        "Model Id": "320_01_1"
+    },
+    {
+        "Model Name": "TRUCK",
+        "Model Id": "622_01_1"
+    },
+    {
+        "Model Name": "TRAIN_WAGON",
+        "Model Id": "608_01_1"
+    },
+    {
+        "Model Name": "WAGON",
+        "Model Id": "609_01_1"
+    },
+    {
+        "Model Name": "WAGON",
+        "Model Id": "607_01_1"
+    },
+    {
+        "Model Name": "TRAIN_ENGINE",
+        "Model Id": "605_01_1"
+    },
+    {
+        "Model Name": "HELICOPTER",
+        "Model Id": "709_01_1"
+    },
+    {
+        "Model Name": "JONES",
+        "Model Id": "000_01_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_04_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_01_1"
+    },
+    {
+        "Model Name": "BARREL",
+        "Model Id": "300_03_1"
+    },
+    {
+        "Model Name": "ANYA_HQ",
+        "Model Id": "472_01_1"
+    },
+    {
+        "Model Name": "AITYPE_ANYA",
+        "Model Id": "015_01_1"
+    },
+    {
+        "Model Name": "AITYPE_PATROL_AK",
+        "Model Id": "003_01_1"
+    },
+    {
+        "Model Name": "AITYPE_SNIPER",
+        "Model Id": "001_01_1"
+    },
+    {
+        "Model Name": "AITYPE_SECURITY_PATROL_SPAS",
+        "Model Id": "019_01_1"
+    }
+]
